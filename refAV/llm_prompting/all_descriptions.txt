@@ -1,0 +1,381 @@
+a group of people
+a runner crossing the street in the ego vehicle's path
+accelerating passenger vehicle
+accelerating truck
+accelerating vehicle changing lanes to the right
+accelerating wheeled devices
+active vehicle at stop sign
+adjacent vehicle in turn lane continuing straight at intersection
+another autonomous vehicle
+any vehicle in front of stop sign
+approaching motorcycle
+articulated bus in the same lane as a wheeled device
+at least active 2 vehicles within 15 meters behind ego vehicle
+bicycle and vehicle traveling in bike lane
+bicycle behind a bus
+bicycle being overtaken
+bicycle between two vehicles traveling in same direction
+bicycle crossing in front of ego vehicle in construction zone
+bicycle crossing vehicle path at intersection
+bicycle facing toward a vehicle
+bicycle facing toward moving traffic
+bicycle following closely behind a vehicle
+bicycle in same lane as a vehicle
+bicycle in vehicle lane with vehicle
+bicycle making a left turn across the path of the ego vehicle
+bicycle near a bus
+bicycle near school bus
+bicycle near traffic cone
+bicycle on intersection
+bicycle passing between bus and construction barrier
+bicycle passing by parked vehicle
+bicycle sharing lane as a regular vehicle
+bicycle traveling against traffic
+bicycle traveling alongside construction indicators
+bicycle traveling alongside parked vehicles
+bicycle traveling with vehicle traffic
+bicyclist changing lanes to the right
+bicyclist on intersection
+bicyclist riding in vehicle lane
+bicyclist riding on the opposite sidewalk
+bicyclist swerving around car parked in bike lane
+bicyclist within 3 meters on either side
+box truck at stop sign
+box truck braking in front of ego vehicle
+box truck changing lanes ahead
+box truck changing lanes to the left
+box truck changing lanes to the right
+box truck in bike lane
+box truck near at least 3 construction cones
+box truck with multiple construction cones to its right
+box trucks within 10 meters of an intersection
+bus changing lanes
+bus in bus lane
+bus in front of ego vehicle obstructing view of red traffic light
+bus in the same lane as a truck
+bus making right turn
+bus pulling back onto road in front of ego vehicle after stopping
+bus spilling over the lane dividing line
+bus with another bus in its lane
+bus with at least 3 pedestrians within 5 meters
+bus with multiple pedestrians waiting on the right side
+bus with multiple strollers in front
+bus within 5 meters to either side of ego vehicle
+car driving in bus lane
+car following closely behind bicyclist
+car in front of ego-vehicle being cut off
+car in front of the ego vehicle during a turn
+car making left turn that causes the ego vehicle to slow down
+car on opposite side of road pulling over
+car pulling out of gas station onto road in front of ego vehicle
+car turning right
+car under a cover
+car with a stroller to its left
+city bus
+cones blocking the entrance to a road
+construction barrel with at least 2 construction cones within 3 meters
+construction item on road
+construction workers working next to the road
+cop car sitting on median
+cop cars in front of the ego vehicle
+delivery truck speeding down a narrow road
+dog
+dog crossing in front of vehicle
+dog near an intersection
+dog near pedestrian
+dog on roadway
+dog running in the road
+ego vehicle and vehicle across the intersection simultaneously turn onto the same side of the street
+ego vehicle approaching bicycle merging from bike lane
+ego vehicle approaching construction barrels with a vehicle turning right ahead
+ego vehicle approaching crossing pedestrians
+ego vehicle approaching cyclist in same lane
+ego vehicle approaching intersection with a pedestrian crossing in front of multiple trucks
+ego vehicle approaching intersection with crossing dog
+ego vehicle approaching pedestrian at crosswalk
+ego vehicle approaching stopped delivery truck
+ego vehicle approaching stopped truck
+ego vehicle at a busy pedestrian crossing
+ego vehicle changing lanes between truck and bicycle while approaching pedestrian crossing
+ego vehicle changing lanes near bicycle while approaching stop sign
+ego vehicle changing lanes near construction zone
+ego vehicle changing lanes to the left
+ego vehicle changing lanes to the right with a vehicle ahead
+ego vehicle driving on streetcar tracks
+ego vehicle following bicycle closely
+ego vehicle following vehicle being overtaken on right
+ego vehicle following vehicle that is being overtaken on the right
+ego vehicle in a 25 miles per hour zone
+ego vehicle in dense traffic with lane-changing vehicles
+ego vehicle merging between two regular vehicles
+ego vehicle navigating intersection with a broken traffic light
+ego vehicle near articulated bus
+ego vehicle near bollard
+ego vehicle near construction barrel
+ego vehicle near construction cone
+ego vehicle near mobile pedestrian sign
+ego vehicle near pedestrian crossing sign
+ego vehicle near stroller on sidewalk
+ego vehicle passing parked bus
+ego vehicle passing parked motorcycle
+ego vehicle reacting to a changing traffic light
+ego vehicle slowing down for a yellow light
+ego vehicle traveling down the middle of a three-lane one-way street
+ego vehicle traveling on cobblestone street
+ego vehicle two cars ahead of another vehicle
+ego vehicle with box truck ahead and motorcycle behind
+ego vehicle with parked bicycles ahead
+ego vehicle with vehicles on both sides
+excavator
+fire truck in a non-emergency
+group of at least 3 moving bicyclists within 5 meters of each other
+group of pedestrians ahead of the ego vehicle
+group of people
+group of three people
+jaywalking pedestrian
+lane splitting motorcycle
+large truck blocking view of vehicle that is about to turn left onto a main road
+large vehicle pulling out in front of ego  vehicle from side road
+left lane change while there is a vehicle to the left
+making a left lane change while there is a vehicle to the right
+motorcycle at stop sign
+motorcycle between stopped vehicles
+motorcycle between two vehicles
+motorcycle changing lanes to the left near multiple vehicles
+motorcycle in bike lane
+motorcycle in the same lane as a box truck
+motorcycle near construction cone
+motorcycle near stop sign
+motorcycle or pedestrian within 5 meters to the right
+motorcycle or pedestrian within 5 meters to the right of the ego vehicle
+motorcycle overtaking a vehicle
+motorcycle passing between parked vehicles
+motorcyclist
+motorcyclist braking hard
+motorcyclist traveling opposite to bicycle traffic
+moving bicycle directly to the left of the ego vehicle
+moving bus being crossed by a bicycle
+moving bus to the front-left of the ego vehicle
+moving pedestrian within 3 meters to the left of ego vehicle
+moving wheelchair within 5 meters of an intersection
+multiple buses within 50 meters ahead
+multiple motorcycles ahead of the ego vehicle
+multiple pedestrians crossing ahead
+nearby cars reflecting the bright sunlight
+object that hasn't moved
+objects getting closer to the ego vehicle
+oncoming vehicle changing lanes
+parked box trucks
+parked vehicle
+passenger vehicle near stroller in road
+passenger vehicle swerving left
+passenger vehicle turning left at intersection
+passenger vehicle turning right
+pedestrian approaching a parked vehicle
+pedestrian between moving vehicles on both sides
+pedestrian crossing ahead of ego vehicle
+pedestrian crossing at bollard
+pedestrian crossing between bollards
+pedestrian crossing between stopped buses
+pedestrian crossing in front of cyclist near intersection
+pedestrian crossing in front of vehicle at crosswalk
+pedestrian darting through traffic
+pedestrian facing toward ego vehicle
+pedestrian facing toward the bus
+pedestrian in front of a bicyclist who is to the left of a vehicle
+pedestrian near bollard
+pedestrian near construction cone
+pedestrian near message board trailer
+pedestrian near stop sign
+pedestrian on intersection not using a crosswalk
+pedestrian on road not facing traffic
+pedestrian to the back-right of the ego vehicle
+pedestrian to the left of a truck
+pedestrian turning and watching the ego vehicle
+pedestrian walking alongside bollard
+pedestrian walking alongside stopped bus
+pedestrian walking between construction barriers with approaching vehicle
+pedestrian walking between trailers
+pedestrian walking between two stopped vehicles
+pedestrian walking past right side of vehicle
+pedestrian walking their dog
+pedestrian walking with dog on sidewalk
+pedestrian walking with stroller
+pedestrian waving for ego vehicle to continue
+pedestrian with multiple dogs
+pedestrian with stroller jaywalking
+pedestrian with wheelchair at crosswalk
+pedestrians entering a bus
+pedestrians facing each other at close range, possibly conversing
+pedestrians over 30 meters away
+pedestrians using designated crossing
+pedestrians walking around a vehicle parked on a crosswalk
+pedestrians, strollers, or wheeled devices at a pedestrian crossing
+people entering a vehicle on the road
+person directing traffic in a school zone
+person pushing a wheelchair across the road
+person stepping out of car onto road in front of ego vehicle
+person walking their bike across the street
+person walking two dogs
+police car stopped on the side of the road
+railed vehicle
+red cars
+regular vehicle turning right
+regular vehicles that are stopped or nearly stopped
+school bus at pedestrian crossing
+school bus on intersection
+scooter lying down on the side of the road
+semi truck within 30 meters ahead of ego vehicle
+skateboarder on the road
+stationary construction barrel
+stationary object
+stop sign behind a pedestrian
+stop sign on a road with two lanes per direction
+stopped car
+stopped delivery trucks
+stopped vehicle facing a turning vehicle between 5-20 meters away
+stopped vehicles at intersection being crossed by pedestrians
+stroller
+stroller in the same lane as a regular vehicle
+stroller with bollards on both sides
+the active vehicle in front of the vehicle ahead
+the car following the ego vehicle getting closer
+the third car forward from the ego vehicle
+the vehicle behind another vehicle being crossed by a jaywalking pedestrian
+the vehicle two cars behind the ego vehicle
+the vehicle two cars in front of the ego vehicle
+tow truck
+truck being passed by ego vehicle while nearby pedestrians cross between construction barriers
+truck cab with trailer sharing lane with regular vehicle
+truck changing lanes to the right
+truck in the same lane as a bus
+truck on intersection
+truck sharing a lane with another truck
+truck swerving near construction cones
+truck unloading in the middle of the road
+truck without trailer
+turning left
+turning right
+two cars back from the ego vehicle
+two of the same work truck
+unattended dog
+unattended stroller
+van facing the wrong way in the middle turn lane
+van making a tight merge in front of the ego vehicle
+van pausing an unprotected left turn to let ego vehicle pass
+van with a traffic cone attached to the front
+vehicle accelerating aggressively
+vehicle accelerating more than two meters per second
+vehicle accelerating on intersection
+vehicle accelerating towards pedestrian crossing
+vehicle accelerating while changing lanes
+vehicle aggressively passing another during a turn from the same lane
+vehicle approaching and facing a stopped vehicle at an intersection
+vehicle approaching multiple pedestrians at crosswalk
+vehicle approaching pedestrians waiting at a crosswalk
+vehicle approaching stopped vehicle at intersection
+vehicle at a stop sign
+vehicle at intersection facing another vehicle
+vehicle behind another vehicle that has a pedestrian on its right side
+vehicle being crossed by a pedestrian
+vehicle being followed by ego vehicle while being overtaken on right
+vehicle being overtaken by the ego vehicle
+vehicle being overtaken on the left
+vehicle being overtaken on the right
+vehicle being overtaken while approaching another vehicle
+vehicle being passed on the left by another vehicle
+vehicle being tailgated while approaching stopped traffic
+vehicle between two bicycles while on pedestrian crossing
+vehicle braking at pedestrian crossing
+vehicle braking heavily
+vehicle braking near jaywalking pedestrian or stroller
+vehicle braking near pedestrian crossing
+vehicle changing lanes
+vehicle changing lanes near group of cyclists
+vehicle changing lanes near message board trailer
+vehicle changing lanes through bike lane
+vehicle changing lanes to the right
+vehicle changing lanes while in bike lane
+vehicle changing lanes while on an intersection
+vehicle crossing path of another vehicle
+vehicle cutting across lanes to make a left turn
+vehicle directly facing a moving pedestrian from 5-15 meters away
+vehicle facing a group of three or more pedestrians at a crosswalk within 10 meters
+vehicle facing and accelerating toward pedestrian on road
+vehicle facing and heading toward pedestrian group
+vehicle facing away from the ego vehicle
+vehicle facing the ego vehicle
+vehicle facing toward a pedestrian at a crosswalk
+vehicle facing toward parked vehicles
+vehicle flashing their hazard lights
+vehicle following another vehicle too closely
+vehicle getting passed from the right
+vehicle going through intersection in front of ego vehicle without right of way
+vehicle hard braking with another vehicle ahead
+vehicle in adjacent lane switching lanes to pass another turning vehicle
+vehicle in close proximity to bicycle
+vehicle inside intersection waiting to turn
+vehicle making a right turn
+vehicle making an unprotected left turn at an intersection
+vehicle making legal right turn during red light
+vehicle maneuvering between construction barriers
+vehicle moving at crawling speed
+vehicle navigating dense pedestrian traffic
+vehicle navigating near multiple bicycles
+vehicle near construction barrel
+vehicle near multiple bollards
+vehicle on opposite side of road turning into same lane as ego vehicle
+vehicle parallel parking
+vehicle parked within traffic cone area
+vehicle passing bicycle near mobile pedestrian sign
+vehicle passing near person in wheelchair
+vehicle passing school bus at stop
+vehicle passing stopped truck with pedestrian nearby
+vehicle passing the ego vehicle going signifcantly over the speed limit on an urban road
+vehicle passing truck with pedestrian crossing ahead
+vehicle sharing a lane with another vehicle
+vehicle starting to switch lanes but then going back
+vehicle stopped at a stop sign
+vehicle stopped at construction barrel
+vehicle surrounded by bicycles on all sides
+vehicle to the back right of the ego vehicle
+vehicle traveling in the opposite direction as the ego vehicle
+vehicle traveling in the same direction as the ego vehicle
+vehicle traveling over 20 meters per second
+vehicle trying to merge into the same space as the ego vehicle
+vehicle turning at intersection with nearby pedestrians
+vehicle turning left at intersection while sharing lane with a bus
+vehicle turning left while bicycle crosses from right
+vehicle turning left while pedestrian crosses at crosswalk
+vehicle turning left with a bicycle in front of it
+vehicle turning near group of cyclists
+vehicle turning right at stop sign
+vehicle turning right near construction zone
+vehicle turning right next to pedestrian with stroller
+vehicle turning right with pedestrian in front
+vehicle turning right with pedestrian waiting
+vehicle turning while pedestrian crosses with stroller
+vehicle two cars ahead is being crossed by a pedestrian
+vehicle two cars ahead is braking
+vehicle two cars ahead is changing lanes
+vehicle two vehicles ahead is at a stop sign
+vehicle two vehicles ahead is being crossed by a pedestrian
+vehicle two vehicles ahead is braking
+vehicle two vehicles ahead is changing lanes
+vehicle two vehicles ahead is turning
+vehicle with a bicycle mounted on it
+vehicle with a bicycle to its right
+vehicle with multiple bicycles ahead
+vehicle with multiple construction cones on the left side
+vehicle with multiple pedestrians to the left
+vehicle with their left turn signal on
+vehicle within 5 meters of a bicycle
+vehicles approaching stopped school bus with children nearby
+vehicles being passed by a motorcycle on either side
+vehicles retrofitted to be autonomous
+vehicles stopping to not block entrance to the road
+wheelchair user at pedestrian crossing
+wheeled device (e.g., golf cart, segway) sharing a lane with a moving vehicle
+wheeled rider crossing between moving vehicles
+wheeled rider crossing in front of vehicle at stop sign
+white car cutting in front of ego vehicle
