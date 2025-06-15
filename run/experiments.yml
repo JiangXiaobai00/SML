@@ -49,18 +49,21 @@ gemini_test_1:
   name: gemini_test_1
   LLM: gemini
   split: test
+  offline: True
   tracker: Le3DE2D_Tracking
 
 exp101:
   name: exp101
   LLM: Qwen2.5-7B-Instruct
   split: test
+  offline: False
   tracker: Le3DE2D_Tracking
 
 exp100:
   name: exp100
   LLM: Qwen2.5-7B-Instruct
   split: val
+  offline: False
   tracker: Le3DE2D_Tracking
 
 #Ground truth experiments
